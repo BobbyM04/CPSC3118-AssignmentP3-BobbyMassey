@@ -1,4 +1,5 @@
-﻿Public Class Form1
+'Bobby Massey - Assignment P3: Catering Order GUI - CPSC 3118
+Public Class Form1
     Public Property rbGourmetCheese As RadioButton
     Public Property rbPinwheelWraps As RadioButton
     Public Property rbVeggie As RadioButton
